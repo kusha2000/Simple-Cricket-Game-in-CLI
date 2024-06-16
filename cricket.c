@@ -501,6 +501,7 @@ void batting(){
 
                 if(battingtimes==2 && first_bat_total<total){
                     strncpy(wingame,team_name1,10);
+                    delay(5);
                     //printf("\n\n%s win the game\n\n",team_name1);
                     break;
                 }
@@ -655,6 +656,7 @@ void batting(){
 
                 if(battingtimes==2 && first_bat_total<total2){
                     strncpy(wingame,team_name2,10);
+                    delay(5);
                     //printf("\n\n%s win the game\n\n",team_name2);
                     break;
                 }
