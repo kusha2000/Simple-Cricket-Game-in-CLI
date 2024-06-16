@@ -1,3 +1,6 @@
+Simple-Cricket-Game-in-CLI
+--------------------------
+
 This is a simple command-line cricket game implemented in C, simulating a super over scenario. The program allows the user to choose their team, select players, and play a match against another team, with random events determining the outcome of each ball. Below is a brief overview of the program's key functionalities:
 
 Features
