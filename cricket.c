@@ -676,9 +676,11 @@ void batting(){
 
 }
 void winning_team(){
+    delay(2);
     printf("\n\n\t===================\n");
     printf("\t%s win the Game\n",wingame);
     printf("\t===================\n");
+    delay(5);
 
 }
 void delay(int numOfSec)
