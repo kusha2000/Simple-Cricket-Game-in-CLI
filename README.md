@@ -47,7 +47,11 @@ How to Play<br><br>
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/Simple-Cricket-Game-in-CLI/assets/127003267/78628b9a-8d8f-48f1-bf7f-074cd8ad4bda)
+
+
+https://github.com/user-attachments/assets/e184a068-e1c1-47e4-8827-d307dc56f315
+
+
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
